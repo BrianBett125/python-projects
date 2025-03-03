@@ -1,4 +1,0 @@
-PI = 3.142
-radius = 14
-area = PI * radius * radius
-print(area)
