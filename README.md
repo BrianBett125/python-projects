@@ -1,17 +1,1 @@
-hajajnkahvsjaj
-
-
-
-
-
-
-
-
-
-gg
-
-
-b
-
-
-
+python scripts
