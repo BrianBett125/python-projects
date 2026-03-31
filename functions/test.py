@@ -16562,7 +16562,8 @@ anywhere you shouldn’t waste time at all, it is in casting out any
 devil.
 releases to you. If I agree with you and you disagree with God,
 how will you escape? (Hebrews 2:3). It is your agreement with
-God that determines your fate in any conflict of life.
+jcnskhjcsiudhsuajaoidhsjxchcbsdheudfdjfhskxnjzbskzl
+njxcscnsk
 You just have to discover what heaven demands of you, to be
 triumphant and ever victorious in life, and give it all you’ve got.
 Only your agreement with God will guarantee His walk with
