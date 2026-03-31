@@ -4,3 +4,7 @@ print(name, type(name))
 is_student = True
 print(is_student, type(student))
 
+# Simple if statement example
+
+
+
