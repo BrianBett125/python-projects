@@ -1,0 +1,132 @@
+[
+    {
+        "id": 7,
+        "user": {
+            "name": "User_7",
+            "email": "user7@example.com"
+        },
+        "metrics": {
+            "score": 75,
+            "active": false
+        },
+        "external_info": "Data_for_7",
+        "category": "Average"
+    },
+    {
+        "id": 6,
+        "user": {
+            "name": "User_6",
+            "email": "user6@example.com"
+        },
+        "metrics": {
+            "score": 63,
+            "active": true
+        },
+        "external_info": "Data_for_6",
+        "category": "Average"
+    },
+    {
+        "id": 3,
+        "user": {
+            "name": "User_3",
+            "email": "user3@example.com"
+        },
+        "metrics": {
+            "score": 28,
+            "active": false
+        },
+        "external_info": "Data_for_3",
+        "category": "Poor"
+    },
+    {
+        "id": 5,
+        "user": {
+            "name": "User_5",
+            "email": "user5@example.com"
+        },
+        "metrics": {
+            "score": 60,
+            "active": false
+        },
+        "external_info": "Data_for_5",
+        "category": "Average"
+    },
+    {
+        "id": 2,
+        "user": {
+            "name": "User_2",
+            "email": "user2@example.com"
+        },
+        "metrics": {
+            "score": 35,
+            "active": false
+        },
+        "external_info": "Data_for_2",
+        "category": "Poor"
+    },
+    {
+        "id": 4,
+        "user": {
+            "name": "User_4",
+            "email": "user4@example.com"
+        },
+        "metrics": {
+            "score": 72,
+            "active": false
+        },
+        "external_info": "Data_for_4",
+        "category": "Average"
+    },
+    {
+        "id": 8,
+        "user": {
+            "name": "User_8",
+            "email": "user8@example.com"
+        },
+        "metrics": {
+            "score": 93,
+            "active": false
+        },
+        "external_info": "Data_for_8",
+        "category": "Excellent"
+    },
+    {
+        "id": 9,
+        "user": {
+            "name": "User_9",
+            "email": "user9@example.com"
+        },
+        "metrics": {
+            "score": 83,
+            "active": false
+        },
+        "external_info": "Data_for_9",
+        "category": "Excellent"
+    },
+    {
+        "id": 1,
+        "user": {
+            "name": "User_1",
+            "email": "user1@example.com"
+        },
+        "metrics": {
+            "score": 87,
+            "active": false
+        },
+        "external_info": "Data_for_1",
+        "category": "Excellent"
+    },
+    {
+        "id": 10,
+        "user": {
+            "name": "User_10",
+            "email": "user10@example.com"
+        },
+        "metrics": {
+            "score": 27,
+            "active": false
+        },
+        "external_info": "Data_for_10",
+        "category": "Poor"
+    }
+]

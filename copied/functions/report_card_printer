@@ -1,0 +1,9 @@
+name = 'Miracle'
+print(name, type(name)) # printing the datatype using type()
+
+is_student = True
+print(is_student, type(is_student)) # commas are used to separate and print several elemts using print()
+
+score = 90.7
+print(isinstance(score, int))
+print(score, type(score))
