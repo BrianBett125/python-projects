@@ -2,7 +2,7 @@
 
 int v, i, j, k, l, s, a[99];
 
-int main()
+int main().
 {
     for(scanf("%d",&s);*a-s;v=a[j*=v]-a[i],k=i<s,j+=(v=j<s&&
     (!k&&!!printf(2+"\n\n%c"-(!l<<!j)," #Q"[l^v?(l^j)&1:2])&&
