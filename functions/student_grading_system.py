@@ -70,4 +70,3 @@ if __name__ == "__main__":
     # Find top student using higher-order function
     top_student = summarize(results, max)
     print("Top Student:", top_student)
-
