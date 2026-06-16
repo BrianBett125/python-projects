@@ -25,4 +25,3 @@ def calculate_mars_distance():
 
 if __name__ == "__main__":
     calculate_mars_distance()
-
